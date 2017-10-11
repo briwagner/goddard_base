@@ -2,3 +2,5 @@ core/
 modules/
 sites/
 vendor/
+
+**/.DS_Store
