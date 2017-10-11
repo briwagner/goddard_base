@@ -1,0 +1,5 @@
+{
+  "name": "mobomo/goddard_base",
+  "description": "Drupal 8 Base Profile for Goddard",
+  "type": "drupal-profile"
+}
