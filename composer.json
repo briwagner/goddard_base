@@ -11,7 +11,8 @@
     "require": {
         "composer/installers": "^1.0.20",
         "drupal-composer/drupal-scaffold": "^2.0.1",
-        "drupal/core": "~8.4"
+        "drupal/core": "~8.4",
+        "drupal/uswds": "1.x-dev"
     },
     "extra": {
         "installer-paths": {
