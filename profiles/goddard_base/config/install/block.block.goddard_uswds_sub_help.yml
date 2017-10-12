@@ -1,0 +1,22 @@
+uuid: af330fdc-31a6-48f1-b172-9a285aa506c6
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - goddard_uswds_sub
+_core:
+  default_config_hash: 8I8iACSa0sKO3k3jlvUG1ge52rfcKX7USJAQYnzuBgg
+id: goddard_uswds_sub_help
+theme: goddard_uswds_sub
+region: content
+weight: -7
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  provider: help
+  label_display: '0'
+visibility: {  }

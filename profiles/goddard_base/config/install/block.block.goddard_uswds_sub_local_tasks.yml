@@ -1,0 +1,22 @@
+uuid: ca4b50a5-546b-499b-ab63-968c5d451cf2
+langcode: en
+status: true
+dependencies:
+  theme:
+    - goddard_uswds_sub
+_core:
+  default_config_hash: X9I1OB0W3WlWtrK-CNcg6hNWwa8wficanpH8pYnDZDE
+id: goddard_uswds_sub_local_tasks
+theme: goddard_uswds_sub
+region: content
+weight: -7
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  provider: core
+  label_display: '0'
+  primary: true
+  secondary: true
+visibility: {  }
