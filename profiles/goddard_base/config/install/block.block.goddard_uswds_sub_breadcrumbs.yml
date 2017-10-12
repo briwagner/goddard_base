@@ -1,4 +1,3 @@
-uuid: bce17403-826f-48ba-ae3c-f03d72d9aded
 langcode: en
 status: true
 dependencies:
@@ -6,8 +5,7 @@ dependencies:
     - system
   theme:
     - goddard_uswds_sub
-_core:
-  default_config_hash: oXUb3JZR2WW5VOdw4HrhRicCsq51mCgLfRyvheG68ck
+_core: { }
 id: goddard_uswds_sub_breadcrumbs
 theme: goddard_uswds_sub
 region: breadcrumb

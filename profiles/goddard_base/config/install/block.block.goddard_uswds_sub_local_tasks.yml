@@ -1,11 +1,9 @@
-uuid: ca4b50a5-546b-499b-ab63-968c5d451cf2
 langcode: en
 status: true
 dependencies:
   theme:
     - goddard_uswds_sub
-_core:
-  default_config_hash: X9I1OB0W3WlWtrK-CNcg6hNWwa8wficanpH8pYnDZDE
+_core: { }
 id: goddard_uswds_sub_local_tasks
 theme: goddard_uswds_sub
 region: content

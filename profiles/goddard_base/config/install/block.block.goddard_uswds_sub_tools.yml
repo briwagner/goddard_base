@@ -1,4 +1,3 @@
-uuid: 8418cb2b-bf5d-43a0-a9de-89f95986f827
 langcode: en
 status: true
 dependencies:
@@ -8,8 +7,7 @@ dependencies:
     - system
   theme:
     - goddard_uswds_sub
-_core:
-  default_config_hash: NeHSoqm4XFqA7_0bDmR429ZZQt3LRbZMNRJTMsFyOfI
+_core: { }
 id: goddard_uswds_sub_tools
 theme: goddard_uswds_sub
 region: sidebar_first

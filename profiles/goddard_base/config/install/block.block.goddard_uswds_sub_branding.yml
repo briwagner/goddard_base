@@ -1,4 +1,3 @@
-uuid: 4bb2a21f-f540-4b75-97b7-125bd3cd5f67
 langcode: en
 status: true
 dependencies:
@@ -6,8 +5,7 @@ dependencies:
     - system
   theme:
     - goddard_uswds_sub
-_core:
-  default_config_hash: NDwadleLD3YVSbDUaakxyYZyINYtkFtOVGShfq4kWy8
+_core: { }
 id: goddard_uswds_sub_branding
 theme: goddard_uswds_sub
 region: header
