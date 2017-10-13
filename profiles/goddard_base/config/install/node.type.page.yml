@@ -1,6 +1,7 @@
 langcode: en
 status: true
 dependencies: {  }
+_core: { }
 name: 'Basic page'
 type: page
 description: 'Use <em>basic pages</em> for your static content, such as an ''About us'' page.'

@@ -3,11 +3,10 @@ status: true
 dependencies:
   module:
     - editor
+_core: { }
 name: 'Full HTML'
 format: full_html
 weight: 1
-roles:
-  - administrator
 filters:
   filter_align:
     id: filter_align

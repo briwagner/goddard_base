@@ -1,6 +1,7 @@
 langcode: en
 status: true
 dependencies: {  }
+_core: { }
 id: comment
 label: 'Default comments'
 target_entity_type_id: node

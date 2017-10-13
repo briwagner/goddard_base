@@ -6,6 +6,7 @@ dependencies:
     - node.type.article
   module:
     - comment
+_core: { }
 id: node.article.comment
 field_name: comment
 entity_type: node

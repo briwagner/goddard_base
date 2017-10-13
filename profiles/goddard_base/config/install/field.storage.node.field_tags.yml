@@ -4,6 +4,7 @@ dependencies:
   module:
     - node
     - taxonomy
+_core: { }
 id: node.field_tags
 field_name: field_tags
 entity_type: node

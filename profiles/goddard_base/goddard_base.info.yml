@@ -37,6 +37,7 @@ dependencies:
   - views_ui
   - tour
   - automated_cron
+  - admin_toolbar
 themes:
-  - bartik
+  - goddard_uswds_sub
   - seven

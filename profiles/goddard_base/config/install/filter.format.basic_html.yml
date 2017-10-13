@@ -3,11 +3,10 @@ status: true
 dependencies:
   module:
     - editor
+_core: { }
 name: 'Basic HTML'
 format: basic_html
 weight: 0
-roles:
-  - authenticated
 filters:
   filter_html:
     id: filter_html
