@@ -1,4 +1,13 @@
+/* General use */
+
+.all-caps {
+  text-transform: uppercase;
+}
+
+/* END General use */
+
 /* NASA header */
+
 .nasa-header-menu {
   display: flex;
   align-items: center;
@@ -42,6 +51,7 @@
 /* SITE header */
 .usa-navbar {
   display: flex;
+  align-items: center;
   width: 100% !important;
   max-width: none !important;
   height: 200px !important;
@@ -50,7 +60,6 @@
   background-size: cover;
   margin-top: 10px;
   padding: 0 20px;
-  align-items: center;
 }
 
 .usa-navbar .region.region-header {
@@ -86,8 +95,42 @@
 
 /* END SITE header */
 
-/* General use */
+/* BEGIN Agency Footer */
 
-.all-caps {
-  text-transform: uppercase;
+.nasa-agency-footer {
+  background-color: #0C131C;
+  color: white;
+  padding: 60px 0;
+  font-size: 80%;
 }
+.nasa-agency-footer-container {
+  display: flex;
+  align-items: center;
+}
+
+.footer-agency-id img {
+  margin-bottom: 10px;
+}
+
+.footer-agency-id p {
+  margin: 0;
+}
+
+.footer-agency-links ul {
+  padding-left: 0;
+}
+
+.footer-agency-links li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.footer-agency-links a {
+  color: white;
+  font-weight: 800;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+/* END Agency Footer */
